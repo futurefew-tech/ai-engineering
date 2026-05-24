@@ -33,7 +33,7 @@
 ## Working with Data 🟢
 - JSON
 - CSV
-- file handling
+- file handling (image, text, pdf, speech, video etc.)
 - regex
 - logging
 
@@ -77,8 +77,8 @@
 - optimization basics
 
 ## Traditional ML 🟡
-- regression
-- classification
+- ML modeling lifecycle (data prep, EDA, feature engineering and selection, hyper parameter tuning, model evaluation, model selection etc.)
+- Xgboost for regression and classification
 - clustering
 - anomaly detection
 
@@ -93,12 +93,12 @@
 *Goal: Understand how modern language models evolved.*
 
 ## Neural Networks 🟢
-- neurons
+- perceptron
 - layers
 - activations
-- forward pass
 - backpropagation
 - gradient descent
+- loss functions
 
 ## PyTorch Basics 🟢
 - tensors
@@ -162,8 +162,10 @@
 
 ## Prompting 🟢
 - system prompts
-- role prompting
 - few-shot prompting
+- meta prompting
+- role prompting
+- chain of thought
 - prompt iteration
 
 ## Reliable Outputs 🟢
@@ -270,7 +272,6 @@
 - code execution
 
 ## Agent Frameworks 🟡
-- LangChain
 - LangGraph
 - PydanticAI
 - OpenAI Agents SDK
