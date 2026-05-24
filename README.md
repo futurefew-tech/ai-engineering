@@ -402,11 +402,11 @@
 Recommended order:
 
 ```text
-Python
+Python & SQL
   ↓
 ML Basics
   ↓
-Deep Learning
+Deep Learning Basics
   ↓
 Transformers + LLMs
   ↓
@@ -444,15 +444,3 @@ If you're short on time, focus on:
 ✅ Deployment basics  
 
 Skip advanced topics initially.
-
----
-
-# Final Advice
-
-Do not get stuck in tutorial mode.
-
-For every phase:
-
-**Learn → Build → Break → Debug → Improve**
-
-That is how AI engineers actually learn.
