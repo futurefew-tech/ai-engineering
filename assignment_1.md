@@ -1,4 +1,3 @@
-````markdown
 # Assignment: Build an AI Article API
 
 ## Goal
