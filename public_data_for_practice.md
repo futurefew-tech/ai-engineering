@@ -2,6 +2,9 @@
 # Airbnb data
 https://insideairbnb.com/get-the-data/
 
+# Dirty Data Samples 
+https://foresightbi.com.ng/microsoft-power-bi/dirty-data-samples-to-practice-on/
+
 # Cafe sales data 
 https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training
 
