@@ -13,3 +13,9 @@ https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-g
 
 # Financial well-being survey data
 https://www.consumerfinance.gov/data-research/financial-well-being-survey-data/
+
+#  LLM Jailbreak & Prompt-Injection Dataset 
+https://huggingface.co/datasets/Necent/llm-jailbreak-prompt-injection-dataset
+
+# data search google
+https://datasetsearch.research.google.com/
