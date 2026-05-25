@@ -3,6 +3,22 @@
 ## Goal
 Build a FastAPI application that uses an **open-source LLM** to analyze article text.
 
+## What You’ll Learn
+After completing this assignment, you will understand:
+
+- How to build REST APIs using FastAPI
+- How to connect an application with an open-source LLM
+- How to design effective prompts for summarization and classification
+- How to structure AI outputs into clean JSON responses
+- How to validate API request inputs using Pydantic
+- How to handle API errors gracefully
+- How to separate application logic into clean modules (routes, schemas, services)
+- How to integrate LLM inference into backend applications
+- How to improve AI output consistency with prompt engineering
+- Basic techniques for handling long inputs (chunking/splitting)
+- Logging and debugging AI-powered APIs
+- Writing production-style README documentation
+
 ---
 
 ## Tasks
