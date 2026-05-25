@@ -1,4 +1,4 @@
-# LLM & RAG — Interview Question Bank
+# LLM — Interview Question Bank
 
 > **Scope:** AI Engineering · MLOps · LLM Systems · GenAI · Production ML  
 > **Level:** Intermediate → Advanced  
